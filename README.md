@@ -5,6 +5,12 @@ replace 11th line with in subject text which you want
 
 in 13 & 14th line with your mail and password and in 29th line recipients & 33 if you need auto send doc/files if dont want means add #in starting...
 
+in cmd enter
+
+pip install Random
+
+and hit enter button
+
 👉Auto Mail Send
 https://youtu.be/txRUFBhUTLU
 
