@@ -26,8 +26,9 @@ driver.find_element_by_css_selector('.T-I.T-I-KE.L3').click()
 time.sleep(16)
 to = driver.find_element_by_name('to')
 ActionChains(driver)\
-.send_keys("support@google.com")\ #replace the mail id who you want to send
+.send_keys("toyou123@gmail.com")\
 .perform()
+#replace with your sender mail id
 
 time.sleep(5)
 driver.find_element_by_xpath('//input[@type="file"]').send_keys(r"C:\Users\Hp\Desktop\Bots\gmail\data.txt") #here the file or document will send (replace path with your where your file located if you don't want to use means add # in these line in starting of these code)
