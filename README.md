@@ -1,6 +1,8 @@
 # Auto-mail-send
 Auto mail sent using selenium with python
 
+(note:-use accounts which dont have 2 factor-authentication)
+
 replace 11th line with in subject text which you want 
 
 in 13 & 14th line with your mail and password and in 29th line recipients & 33 if you need auto send doc/files if dont want means add #in starting...
