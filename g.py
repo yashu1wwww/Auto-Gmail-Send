@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import random
 
-subject = ["hey google how are you","hey google good morning","i think you are fine",] #add more if you want more text and replace the text in which you required
+subject = ["hey good morning","have a great day","i think you are fine",] #add more if you want more text and replace the text in which you required
 
 email = 'send123@gmail.com\n'  #replace with your gmail(use non 2 factor authentication mail) 
 password = 'pass123\n'    #replace with your password
