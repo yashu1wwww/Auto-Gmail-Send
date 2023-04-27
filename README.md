@@ -1,32 +1,26 @@
 # Auto-mail-send
 Auto mail sent using selenium with python
 
-(note:-use accounts which dont have 2 factor-authentication)
+Note: Please use accounts that do not have 2-factor authentication enabled.
 
-replace 11th line with in subject text which you want 
+Replace the 11th line with the subject text that you want.
 
-in 13 & 14th line with your mail and password and in 29th line recipients & 33 if you need auto send doc/files if dont want means add #in starting...
+Replace the 13th and 14th lines with your email and password, respectively. Replace the recipients in line 29 and, if you do not want to auto-send documents or files, add a "#" at the beginning of line 33.
 
-in cmd enter
-
-pip install Random
-
-and hit enter button
+In the command prompt, enter "pip install random" and hit the enter button.
 
 👉Auto Mail Send
 https://youtu.be/txRUFBhUTLU
 
-After download the folder extract it and open cmd and enter Python If You Find Python Version
+After downloading the folder, extract it and open the command prompt. Enter "python" to check your Python version. Then, enter "pip install undetected_chromedriver" in the command prompt.
 
-Then enter pip install undetected_chromedriver in cmd
+After downloading the chromedriver (https://chromedriver.chromium.org/downloads), extract it to the downloaded folder and make sure it matches the version of Google Chrome installed on your PC.
 
-After download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
-
-and enter g.py in that particular folder in cmd or double click on g.py ...
+Finally, enter "g.py" in that particular folder in the command prompt or double-click on "g.py".
 
 👉Note:-
 
-👉if your selenium version is in latest version then the code never run
+👉If you have the latest version of Selenium, the code may not run
 
 👉open cmd and enter pip uninstall selenium
 
