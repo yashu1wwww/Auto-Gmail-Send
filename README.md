@@ -1,5 +1,5 @@
 # Auto-mail-send
-Auto mail sent using selenium with python
+An automated email was sent in Gmail without using the API, using Selenium with Python
 
 Note: Please use accounts that do not have 2-factor authentication enabled.
 
