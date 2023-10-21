@@ -9,10 +9,6 @@ Replace the 13th and 14th lines with your email and password, respectively. Repl
 
 In the command prompt, enter "pip install random" and hit the enter button.
 
-👉Auto Mail Send
-
-https://youtu.be/txRUFBhUTLU
-
 After downloading the folder, extract it and open the command prompt. Enter "python" to check your Python version. Then, enter "pip install undetected_chromedriver" in the command prompt.
 
 After downloading the chromedriver (https://chromedriver.chromium.org/downloads), extract it to the downloaded folder and make sure it matches the version of Google Chrome installed on your PC.
