@@ -22,7 +22,7 @@ wait.until(EC.visibility_of_element_located((By.NAME,'identifier'))).send_keys(e
 wait.until(EC.visibility_of_element_located((By.NAME,'password'))).send_keys(password)
 time.sleep(20)
 
-driver.find_element_by_css_selector('.T-I.T-I-KE.L3').click()
+driver.find_element_by_css_selector("body > div:nth-child(23) > div.nH > div > div.nH.aqk.aql.bkL > div.aeN.WR.baA.nH.oy8Mbf > div.aic > div > div").click() #click on compose button
 time.sleep(16)
 to = driver.find_element_by_name('to')
 ActionChains(driver)\
@@ -33,7 +33,7 @@ ActionChains(driver)\
 time.sleep(5)
 driver.find_element_by_xpath('//input[@type="file"]').send_keys(r"C:\Users\Hp\Desktop\Bots\gmail\data.txt") #here the file or document will send (replace path with your where your file located if you don't want to use means add # in these line in starting of these code)
 time.sleep(7)
-driver.find_element_by_name("subjectbox").send_keys(random.choice(subject))
+driver.find_element_by_name("subjectbox").send_keys(random.choice(subject)) #subject
 time.sleep(5)
 driver.find_element_by_css_selector('.T-I.J-J5-Ji.aoO.v7.T-I-atl.L3').click()
 time.sleep(50)   
