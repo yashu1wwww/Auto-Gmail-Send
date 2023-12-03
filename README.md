@@ -1,19 +1,30 @@
 # Auto-mail-send
+
 An automated email was sent in Gmail without using the API, using Selenium with Python
 
-Note: Please use accounts that do not have 2-factor authentication enabled.
+https://www.youtube.com/watch?v=FVumnHy5Tzo&t=1s&ab_channel=HelloWorld
 
-Replace the 11th line with the subject text that you want.
+Watch up to 3 minutes and 20 seconds, then open guest in that then,copy the script and saving it. Run the code with the necessary replacements..
 
-Replace the 13th and 14th lines with your email and password, respectively. Replace the recipients in line 29 and, if you do not want to auto-send documents or files, add a "#" at the beginning of line 33.
+# do replacement of to(email) and subject path(if needed otherwise put # in starting on that line) 
 
-In the command prompt, enter "pip install random" and hit the enter button.
+👉 Note:Every time google updates the code, it varies. So, fork the code if not work means...
 
-After downloading the folder, extract it and open the command prompt. Enter "python" to check your Python version. Then, enter "pip install undetected_chromedriver" in the command prompt.
+In the command prompt, enter 
 
-After downloading the chromedriver (https://chromedriver.chromium.org/downloads), extract it to the downloaded folder and make sure it matches the version of Google Chrome installed on your PC.
+"pip install random" 
 
-Finally, enter "g.py" in that particular folder in the command prompt or double-click on "g.py".
+and hit the enter button.
+
+After downloading the folder, extract it and open the command prompt.
+
+Enter "python" to check your Python version. 
+
+After downloading the chromedriver (https://chromedriver.chromium.org/downloads), extract it to the downloaded folder
+
+and make sure it matches the version of Google Chrome installed on your PC.
+
+Finally, enter "g.py" in that particular folder in the command prompt.
 
 👉Note:-
 
